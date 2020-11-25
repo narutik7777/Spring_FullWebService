@@ -7,3 +7,4 @@
 * JPA/Hibernate
 * Thymeleaf
 * Ajax
+* Angular
