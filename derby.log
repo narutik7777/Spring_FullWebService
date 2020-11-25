@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Nov 25 03:16:33 MSK 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0175-fcc2-4bf8-00000ec40488 
+on database directory memory:C:\Spring_Security _Thymeleaf_REST_\demo with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/%d0%98%d0%bb%d1%8c%d1%8f%d1%81/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=C:\Spring_Security _Thymeleaf_REST_
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
