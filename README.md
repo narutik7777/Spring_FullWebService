@@ -8,3 +8,9 @@
 * Thymeleaf
 * Ajax
 * Angular
+* Derby DB
+
+### How to use:
+* Clone repository
+* Run Application
+* Go to Http://localhost:8080
