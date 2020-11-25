@@ -1,4 +1,4 @@
-# Spring Rest Service with authorization 
+# Spring WebService Service with authorization 
 
 ### list of technologies:
 
