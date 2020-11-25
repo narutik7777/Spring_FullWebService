@@ -5,5 +5,5 @@
 * Spring boot
 * Spring security
 * JPA/Hibernate
-*Thymeleaf
-*Ajax
+* Thymeleaf
+* Ajax
